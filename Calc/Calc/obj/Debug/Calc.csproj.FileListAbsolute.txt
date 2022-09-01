@@ -1,0 +1,11 @@
+D:\.Net\第四学期笔试\Calc\Calc\bin\Debug\Calc.exe.config
+D:\.Net\第四学期笔试\Calc\Calc\bin\Debug\Calc.exe
+D:\.Net\第四学期笔试\Calc\Calc\bin\Debug\Calc.pdb
+D:\.Net\第四学期笔试\Calc\Calc\obj\Debug\Calc.csproj.AssemblyReference.cache
+D:\.Net\第四学期笔试\Calc\Calc\obj\Debug\Calc.csproj.SuggestedBindingRedirects.cache
+D:\.Net\第四学期笔试\Calc\Calc\obj\Debug\Calc.FrmMain.resources
+D:\.Net\第四学期笔试\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+D:\.Net\第四学期笔试\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.cache
+D:\.Net\第四学期笔试\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+D:\.Net\第四学期笔试\Calc\Calc\obj\Debug\Calc.exe
+D:\.Net\第四学期笔试\Calc\Calc\obj\Debug\Calc.pdb
